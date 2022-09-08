@@ -1,0 +1,9 @@
+# Datatypes (KEYWORD1)
+buzzer	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+begin	KEYWORD2
+initBuzzer	KEYWORD2
+deinitBuzzer	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
